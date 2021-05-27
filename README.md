@@ -11,7 +11,7 @@ This repository contains various python projects build using different libraries
  
  
  ⊛<b> main.py </b>
-This is an automated messaging system for Whatsapp made using pywhatit.
+This is an automated messaging system for Whatsapp made using pywhatkit.
 
 READMEwa.md is the readme file for the given project.
 
